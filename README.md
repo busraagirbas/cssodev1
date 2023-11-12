@@ -2,35 +2,6 @@
 Kodluyoruz Eğitimi CSS Ödev 1
 Bu ödevde fizyoterapi ve rehabilitasyonu anlattığım bir web sitesi oluşturdum.
 
-h1{
-    font-family:'Times New Roman', Times, serif;
-    text-align:center;
-    font-size: 40px;
-    color: rgb(85, 41, 10);
-}
-h3{
-    color: rgb(85, 41, 10);
-    font-size: 25px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-p{
-    color: black;
-    font-size: 18px;
-}
-.a{
-    color: black;
-    font-size:18px;
-}
-.b{
-    color: black;
-    font-size: 18px;
-}
-.c{
-    color: black;
-    font-size: 18px;
-}
-</style>
-
 </head>
 <body bgcolor="E2C799">
 <hr><h1>Fizyoterapi ve Rehabilitasyon</h1><hr>
