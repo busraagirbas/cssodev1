@@ -1,14 +1,15 @@
 # cssodev1
 Kodluyoruz Eğitimi CSS Ödev 1
 Bu ödevde fizyoterapi ve rehabilitasyonu anlattığım bir web sitesi oluşturdum.
-<!DOCTYPE html>
+
+#<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fizyoterapist</title>
-<style>
+<style>#
 h1{
     font-family:'Times New Roman', Times, serif;
     text-align:center;
