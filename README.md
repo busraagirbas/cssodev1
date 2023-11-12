@@ -41,10 +41,6 @@ p{
 <body bgcolor="E2C799">
 <hr><h1>Fizyoterapi ve Rehabilitasyon</h1><hr>
 <img width="500" src="https://blogs.dpuerp.in/images/blog/7/362-physiotherapy-decoding-myths-and-facts.jpg" alt="Fizyoterapi">
-
-
-
-
 <h3><i>Fizyoterapi Nedir?</i></h3>
 <p><i>
     Aynı zamanda Fizik Tedavi ve Rehabilitasyon olarak tanımlanan fizyoterapi, bireyin günlük yaşamında hareket etme ve fonksiyonel aktiviteler gerçekleştirme yeteneklerini sınırlayan hastalıkları veya yaralanmaları ele alan bilim dalına verilen isimdir. <br>
@@ -56,19 +52,20 @@ p{
     <a class="a" href="1.html">Fizyoterapist Kimdir</a> <br>
     <a class="b" href="2.html">Fizyoterapi Alt Dalları</a> <br>
     <a class="c" href="3.html">Tedavi Yöntemleri</a>
-</div> 
-    
+</div>     
 </body>
 </html>
+
+
 
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fizyoterapist Kimdir</title>
-    <style>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fizyoterapist Kimdir</title>
+<style>
     h1{
     font-family:'Times New Roman', Times, serif;
     font-size: 35px;
@@ -86,9 +83,9 @@ p{
     color: black;
     font-size: 20px;
 }
-
-    </style>
+</style>
 </head>
+
 <body bgcolor="E2C799">
     <h1><i>Fizyoterapist Kimdir</i></h1><hr>
 
