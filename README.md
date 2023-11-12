@@ -1,6 +1,6 @@
 # cssodev1
 Kodluyoruz Eğitimi CSS Ödev 1
-Bu ödevde fizyoterapi ve rehabilitasyonu anlattığım bir web sitesi oluşturdum.
+Bu ödevde fizyoterapi ve rehabilitasyonu anlattığım bir web sitesi oluşturdum.CSS kullandım fakat ayrı bir dosya olarak değil inernal şekilde kullandığımdan dil kısmında gözükmüyor.İnceleyerek görebilirsiniz
 
 </head>
 <body bgcolor="E2C799">
