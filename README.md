@@ -25,7 +25,7 @@ Bu ödevde fizyoterapi ve rehabilitasyonu anlattığım bir web sitesi oluşturd
     
 </body>
 </html>
-![sayfa1]()
-![sayfa1.1]()
-![sayfa1.2]()
-![sayfa1.3]()
+![sayfa1](https://github.com/busraagirbas/cssodev1/blob/main/sayfa%201.PNG?raw=true)
+![sayfa1.1](https://github.com/busraagirbas/cssodev1/blob/main/sayfa%201.1.PNG?raw=true)
+![sayfa1.2](https://github.com/busraagirbas/cssodev1/blob/main/sayfa%201.2.PNG?raw=true)
+![sayfa1.3](https://github.com/busraagirbas/cssodev1/blob/main/sayfa%201.2.PNG?raw=true)
