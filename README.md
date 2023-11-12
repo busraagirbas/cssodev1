@@ -25,3 +25,7 @@ Bu ödevde fizyoterapi ve rehabilitasyonu anlattığım bir web sitesi oluşturd
     
 </body>
 </html>
+![sayfa1]()
+![sayfa1.1]()
+![sayfa1.2]()
+![sayfa1.3]()
